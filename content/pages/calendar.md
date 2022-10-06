@@ -10,13 +10,13 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 #### Session 1:  Introduction
 
+Readings: None assigned.
+
 #### Session 2               
 
 **Reading:**  “Quiet! Sleeping Brain at Work.”
 
 **Writing:** Introductory exercise. 
-
-- Post exercise by 1pm on February 3rd.
 
 **In Class:**  Read responses in pairs and introduce one another. 
 
@@ -111,165 +111,165 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 #### Session 10           
 
-READING:  Additional readings on communicating science.
+**Reading:**  Additional readings on communicating science.
 
-WRITING: Pre-draft exercise 2.3 on pair of documentaries
+**Writing:** Pre-draft exercise 2.3 on pair of documentaries
 
-IN CLASS: Getting from an “opinion” to an idea, cont.
+**In Class:** Getting from an “opinion” to an idea, cont.
 
 #### Session 11             
 
-WRITING: **First version of Critical Review due in class.** 
+**Writing:** First version of Critical Review due in class. 
 
-IN CLASS: Relationship between introduction & essay structure. 
+**In Class:** Relationship between introduction & essay structure. 
 
 - Workshop on introductions.
 
 #### Session 12          
 
-WRITING: Peer Review & prep for next assignment 
+**Writing:** Peer Review & prep for next assignment 
 
 - Write up comments on partners’ critical reviews.
 - Post comments on Canvas by 1pm.
 - Select **two** possible starting points (see list of articles) for your *Scientific American*Update and post article titles on Canvas.
 
-IN CLASS:  Workshop on Critical Review.
+**In Class:**  Workshop on Critical Review.
 
 ### COMMUNICATING ENVIRONMENTAL SCIENCE PART TWO: WRITING FOR THE GENERAL PUBLIC
 
-Session 13:             
+#### Session 13           
 
-WRITING:  **Final version of Critical Review due**.
+**Writing:** Final version of Critical Review due.
 
-IN CLASS: Library session (pending confirmation).
+**In Class:** Library session.
 
-Session 14:            
+#### Session 14            
 
-READING: Preparing for the *Scientific American* Update. 
+**Reading:** Preparing for the *Scientific American* Update. 
 
 - Look through the list of topics and articles that can provide a starting point for your *Scientific American*
 - Select an article that intrigues you and read it.
 - Read “Reviewing Prior Research,” Chapter Five from *Writing in the Sciences* (omitting exercises);
 - Read “Undamming the Rivers: A Review” by Angela Bednarek and “Down go the Dams” by Jane Marks (from *Scientific American*).
 
-IN CLASS: Understanding the link between genre and audience. 
+**In Class:** Understanding the link between genre and audience. 
 
 - Discuss differences between a scholarly review article and a magazine article that provides an overview of a topic or issue (audience, function, structure, evidence, language).
 
-Session 15:             
+#### Session 15            
 
-READING: 
+**Reading:** 
 
 - Go back to the article that will provide a starting point for your *Scientific American* R**ead it carefully**.
 - **Read** “Finding Stories” from *Ideas into Words* by Elise Hancock & “Science and Technology” from *On Writing Well* by William Zinsser. Think about narrative strategies that you might use for your Update.
 - **Read two student** ***Scientific American*** **Updates**.
 
-WRITING: Write a two-paragraph summary (c. 200 words) of the article you have chosen.
+**Writing:** Write a two-paragraph summary (c. 200 words) of the article you have chosen.
 
-IN CLASS: Discuss differing documentation strategies for scientific review article and magazine article.
+**In Class:** Discuss differing documentation strategies for scientific review article and magazine article.
 
-Session 16:               
+#### Session 16              
 
-READING: **Individual research**: 
+**Reading:** Individual research
 
 1. Track down and read a recent (last five years) scholarly review article that covers new research on a key topic within the earlier magazine article.
 2. Send Dr. Taft pdf of review article.
 3. Read at least one more journal article (probably from the list of studies covered by the review article) that focuses on the particular area of research that interests you.
 
-WRITING: 
+**Writing:** 
 
 1. List the key advances and/or changes in orientation reported in the recent review article. Provide a two-sentence synopsis of the second, more specific article.
 
-IN CLASS: How do you write a proposal for scientific magazine article? 
+**In Class:** How do you write a proposal for scientific magazine article? 
 
 - To consider: How do you preserve the boundary between you and your sources?                 
 
-Session 17:               
+#### Session 17               
 
-READING:
+**Reading:**
 
 - Find and read additional material, possibly including recent news articles, to prepare for your *Scientific American* Update.  *Science News* might be a useful source.
 
-WRITING: Write proposal for your *Scientific American* Update 
+**Writing:** Write proposal for your *Scientific American* Update 
 
 - (150-200 words).  See full assignment on Canvas.
 
-IN CLASS: Proposal workshop.
+**In Class:** Proposal workshop.
 
-Session 18:             
+#### Session 18            
 
-WRITING: **First version of** ***Scientific American*** **update due.**
+**Writing:** First version of *Scientific American* update due.
 
-IN CLASS:  Discuss strategies selected by students.
+**In Class:**  Discuss strategies selected by students.
 
-Session 19:             
+#### Session 19            
 
-READING:  Neosha Narayanan’s “Saving Our Pollinators” from *Angles* 2019 and one current student draft.
+**Reading:**  Neosha Narayanan’s “Saving Our Pollinators” from *Angles* 2019 and one current student draft.
 
-IN CLASS: Discuss “Saving Our Pollinators.’
+**In Class:** Discuss “Saving Our Pollinators.’
 
 - Whole class workshop of draft *SA* Update.
 
-Session 20:             
+#### Session 20             
 
-WRITING: Write up comments on partners’ update articles.
+**Writing:** Write up comments on partners’ update articles.
 
-IN CLASS: Workshop on *Scientific American* update.   
+**In Class:** Workshop on *Scientific American* update.   
 
 ### COMMUNICATING ENVIRONMENTAL SCIENCE PART THREE: SPEAKING TO THE PUBLIC
 
-Session 21:            
+#### Session 21 
 
-WRITING: **Final Version of** ***Scientific American*** **update due**.
+**Writing:** Final Version of *Scientific American* update due.
 
-IN CLASS: Bring laptop or IPad to class.  Discuss oral presentations and slide composition. 
+**In Class:** Bring laptop or iPad to class.  Discuss oral presentations and slide composition. 
 
 - View Al Gore’s recent TED talk on Climate Change.
 - Individually, view one of TED talks from assignment list.
 - Together, discuss criteria for slide presentations.
 
-Session 22:             
+#### Session 22         
 
-READING/CLASS PREPARATION: 
+**Reading/Class Preparation:** 
 
 - Watch three TED talks from assignment list.
 
-WRITING: Write up brief response to each talk in response to assigned questions.   
+**Writing:** Write up brief response to each talk in response to assigned questions.   
 
-IN CLASS: Five(?) oral presentations          
+**In Class:** Oral presentations          
 
-Session 23:             
+#### Session 23
 
-IN CLASS: Five(?) oral presentations
+**In Class:** Oral presentations
 
 ### REFINING YOUR WORK: BRINGING IT ALL TOGETHER
 
-Session 24:               
+#### Session 24               
 
-READING:  Reread your three major writing assignments for the semester & review the feedback you received. 
+**Reading:**  Reread your three major writing assignments for the semester & review the feedback you received. 
 
 - Select the assignment that you plan to revise a second time.
 
-WRITING: Write out at least three objectives to pursue as you revise your selected assignment a second time.
+**Writing:** Write out at least three objectives to pursue as you revise your selected assignment a second time.
 
-IN CLASS: Final five(?) oral presentations.
+**In Class:** Final oral presentations.
 
-Session 25:               
+#### Session 25            
 
-WRITING: Continue revising selected assignment. 
+**Writing:** Continue revising selected assignment. 
 
 - Post a segment of that assignment (2-3 full paragraphs) for a small group workshop.
 
-IN CLASS: Advanced editing workshop (small groups) 
+**In Class:** Advanced editing workshop (small groups) 
 
 - Sentence-level feedback from your peers.
 
-Session 26:            
+#### Session 26         
 
-READING: Track down one of your favorite books, stories, or poems, and select a passage or poem to read in class.
+**Reading:** Track down one of your favorite books, stories, or poems, and select a passage or poem to read in class.
 
-WRITING: **Second revision of earlier paper.**
+**Writing:** Second revision of earlier paper.
 
-IN CLASS: Read and listen to favorite works.
+**In Class:** Read and listen to favorite works.
 
 - Celebrate the successful completion of 21W.036.
