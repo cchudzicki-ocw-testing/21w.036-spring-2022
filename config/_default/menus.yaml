@@ -1,0 +1,9 @@
+leftnav:
+- identifier: d83934cb-7e57-4d75-980a-172cfcdd8512
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
