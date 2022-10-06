@@ -6,7 +6,7 @@ draft: false
 title: Calendar
 uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 ---
-### THE DISTINCTIVE ROLE OF NARRATIVE NON-FICTION
+### The Distinctive Role of Narrative Non-Fiction
 
 #### Session 1:  Introduction
 
@@ -24,7 +24,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 #### Session 3          
 
-**Reading: ** Narrative essays—Where do I belong?
+**Reading:** Narrative essays—Where do I belong?
 
 - O. Wilson, “Paradise Beach” from *Naturalist* \[Florida\]
 - Aldo Leopold, “February” from *A Sand County Almanac* \[Wisconsin\];
@@ -70,7 +70,8 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **In Class:**  Workshop on narrative essay.
 
-### COMMUNICATING ENVIRONMENTAL SCIENCE PART ONE: DOCUMENTARIES FOR THE GENERAL PUBLIC
+### Communicating Environmental Science   
+Part One: Documentaries for the General Public
 
 #### Session 7
 
@@ -101,7 +102,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 **Reading: ** Developing a context for your critical review.
 
 - Read articles related to the topic of your documentaries (located with help of instructor).
-- Read broader articles on communicating science (posted on Canvas site).
+- Read broader articles on communicating science (posted on class site).
 
 **Writing:** Pre-draft exercise 2.2 on pair of documentaries.
 
@@ -130,12 +131,12 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 **Writing:** Peer Review & prep for next assignment 
 
 - Write up comments on partners’ critical reviews.
-- Post comments on Canvas by 1pm.
-- Select **two** possible starting points (see list of articles) for your *Scientific American*Update and post article titles on Canvas.
+- Select **two** possible starting points (see list of articles) for your *Scientific American.* Update and post article titles on course website.
 
 **In Class:**  Workshop on Critical Review.
 
-### COMMUNICATING ENVIRONMENTAL SCIENCE PART TWO: WRITING FOR THE GENERAL PUBLIC
+### Communicating Environmental Science   
+Part Two: Writing for the General Public
 
 #### Session 13           
 
@@ -212,7 +213,8 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **In Class:** Workshop on *Scientific American* update.   
 
-### COMMUNICATING ENVIRONMENTAL SCIENCE PART THREE: SPEAKING TO THE PUBLIC
+### Communicating Environmental Science   
+Part Three: Speaking to the Public
 
 #### Session 21 
 
@@ -236,7 +238,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **In Class:** Oral presentations
 
-### REFINING YOUR WORK: BRINGING IT ALL TOGETHER
+### Refining Your Work: Bringing it all Together
 
 #### Session 24               
 
