@@ -10,7 +10,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 #### Session 1:  Introduction
 
-Readings: None assigned.
+**Readings:** None assigned.
 
 #### Session 2               
 
@@ -64,7 +64,7 @@ Readings: None assigned.
 
 #### Session 6 
 
-**Reading:** None assigned
+**Reading:** None assigned.
 
 **Writing:** Write up & post comments on partners’ essays.
 
@@ -74,7 +74,7 @@ Readings: None assigned.
 
 #### Session 7
 
-**Reading:** None Assigned
+**Reading:** None assigned.
 
 **Writing:**  Final version of Narrative Essay due.
 
@@ -178,7 +178,7 @@ Readings: None assigned.
 
 **Writing:** 
 
-1. List the key advances and/or changes in orientation reported in the recent review article. Provide a two-sentence synopsis of the second, more specific article.
+- List the key advances and/or changes in orientation reported in the recent review article. Provide a two-sentence synopsis of the second, more specific article.
 
 **In Class:** How do you write a proposal for scientific magazine article? 
 
@@ -186,13 +186,9 @@ Readings: None assigned.
 
 #### Session 17               
 
-**Reading:**
+**Reading:** Find and read additional material, possibly including recent news articles, to prepare for your *Scientific American* Update.  *Science News* might be a useful source.
 
-- Find and read additional material, possibly including recent news articles, to prepare for your *Scientific American* Update.  *Science News* might be a useful source.
-
-**Writing:** Write proposal for your *Scientific American* Update 
-
-- (150-200 words).  See full assignment on Canvas.
+**Writing:** Write proposal for your *Scientific American* Update (150-200 words).  
 
 **In Class:** Proposal workshop.
 
@@ -230,9 +226,7 @@ Readings: None assigned.
 
 #### Session 22         
 
-**Reading/Class Preparation:** 
-
-- Watch three TED talks from assignment list.
+**Reading/Class Preparation:** Watch three TED talks from assignment list.
 
 **Writing:** Write up brief response to each talk in response to assigned questions.   
 
@@ -272,4 +266,4 @@ Readings: None assigned.
 
 **In Class:** Read and listen to favorite works.
 
-- Celebrate the successful completion of 21W.036.
+- Celebrate the successful completion of 21W.036!
