@@ -7,3 +7,7 @@ leftnav:
   name: Calendar
   url: /pages/calendar
   weight: 20
+- identifier: fb6ee633-6b84-46b2-bdd7-b498e4045246
+  name: Readings
+  url: /pages/readings
+  weight: 30
