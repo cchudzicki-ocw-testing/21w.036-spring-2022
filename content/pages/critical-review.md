@@ -5,7 +5,7 @@ draft: false
 title: Critical Review
 uid: 2c045ca9-30d0-42e0-9120-5a843ee01181
 ---
-#### Pre-draft exercise #1
+### Pre-draft exercise #1
 
 1. Identify the pair of documentaries that you plan to examine in your critical review.
 2. Provide full identifying information for each documentary.
@@ -33,7 +33,7 @@ uid: 2c045ca9-30d0-42e0-9120-5a843ee01181
     - No draft is complete without Works Cited list!
     - Write a letter to your workshop partners
 
-#### Pre-draft Exercise #2
+### Pre-draft Exercise #2
 
 1. Identify the article or articles that provide background information on the topic that provides a focus for the documentaries you plan to analyze. (You are in charge of finding these articles, but I am happy to help.)
     - Describe briefly what kind of information it provides.
@@ -41,11 +41,11 @@ uid: 2c045ca9-30d0-42e0-9120-5a843ee01181
     - Describe briefly what role the article or articles might play in your critical review. What perspective does the article provide?
     - (You may choose a different article later if your own ideas change, but do your best to select an article or articles that will help you develop your ideas.)
 
-#### Pre-draft Exercise #3
+### Pre-draft Exercise #3
 
 Briefly describe central idea for your critical review (½ page); then, create a tentative outline for your critical review.  The outline should highlight the development of your central idea, not just the sequence of topics. Come to class prepared to discuss your outline.
 
-#### Critical Review First Version
+### Critical Review First Version
 
 Scientific researchers whose findings have direct implications for ordinary citizens are often stymied by the challenges involved in bringing their findings to the general public.  One traditional strategy has been to rely on magazines like *Scientific American*, the *New Yorker*, and *Discover* or newspapers like the *New York Times*.  But what about the many ordinary people who do not read these publications or who simply skim the science articles because the vocabulary seems daunting?  Are there other strategies that might reach a broader or simply a different audience?  What about the web?  What about the television networks?  What about more personal outreach?
 
@@ -57,18 +57,18 @@ You have been asked to focus on video documentaries (as opposed to audio documen
 
 To achieve the desired goal of providing broad insights into video documentary as a potentially enlightening educational medium, you must take on the unfamiliar task of analyzing and reviewing two specific documentary productions.  The only roughly comparable assignment that most of you have completed is a book review.  In this case, however, you need to educate yourself before you can write your review.  You will also need to expand the range of features that you consider in your review to include sounds and sights as well as words.  I have put together a list of documentaries that focus on four topics of interest to environmental scientists.  All of these documentaries were designed with the intention of engaging and edifying the general public.  While these materials were originally presented in many different venues, you can now view all of them on the web.  Pick a couple of topics that intrigue you; then, watch ten minutes or so of the videos associated with those topics before you choose the pair of documentaries that you wish to view in their entirety several times.
 
-            Each of the listed documentaries attempts to bridge the distance between the work of academic scientists and the interests and priorities of the lay public.  The directors and producers have chosen different strategies, in part because they bring distinctive priorities to their task and in part because they make different assumptions about their audiences.  As you review the documentaries, try to uncover the producers’ priorities and their assumptions about the audience.  In other words, what are they trying to accomplish and why have they chosen their particular strategy?  What happens to the scientific studies as they are translated into a more accessible format? To what extent do the documentaries consider the social and political context for environmental issues?
+Each of the listed documentaries attempts to bridge the distance between the work of academic scientists and the interests and priorities of the lay public.  The directors and producers have chosen different strategies, in part because they bring distinctive priorities to their task and in part because they make different assumptions about their audiences.  As you review the documentaries, try to uncover the producers’ priorities and their assumptions about the audience.  In other words, what are they trying to accomplish and why have they chosen their particular strategy?  What happens to the scientific studies as they are translated into a more accessible format? To what extent do the documentaries consider the social and political context for environmental issues?
 
-            Remember your intended audience and your intended goal.  Keep in mind that the folks at the Green Media Institute may not have seen either of the video documentaries that you plan to examine.
+Remember your intended audience and your intended goal.  Keep in mind that the folks at the Green Media Institute may not have seen either of the video documentaries that you plan to examine.
 
-**First Version of Critical Review due on Thursday, March 10th:**
+**First Version of Critical Review:**
 
 - 1st version must be at least 1500 words long. Include MLA works cited list.
 - Proofread and edit your critical review; then, write a letter addressed to your workshop partners commenting on the state of your critical review.
 - Post your critical review and letter by 1pm. Post your critical review as a Word document (not a pdf or pages doc).
 - Bring three copies of your critical review and letter to class.
 
-#### Peer Review #2: Critical Review
+### Peer Review #2: Critical Review
 
 Guidelines for comments and workshop discussions of Critical Review
 
@@ -104,5 +104,12 @@ Reminders for next version:
 
 1. Identify your writers and directors (or producers) in the body of your critical review and include any relevant background information.
 2. Use the MLA in-text citation system. You can find information on this citation system on the web (check out the Purdue OWL site).
-3. Remember to include a list of “Works Cited” at the end of your essay. Without such a list, your readers have no way of locating the sources that you mention in your essay.  **The absence of a Works Cited list will result in an automatic grade penalty.**    
+3. Remember to include a list of “Works Cited” at the end of your essay. Without such a list, your readers have no way of locating the sources that you mention in your essay.  **The absence of a Works Cited list will result in an automatic grade penalty.**     
     Documentaries, articles, and websites should all appear in your list of works cited.
+
+### Revised Version
+
+See instructions for the first version. 
+
+- Revised version must be between 1700 and 2000 words long.
+- Post revised critical review by 1pm.  No need to print out copies.
