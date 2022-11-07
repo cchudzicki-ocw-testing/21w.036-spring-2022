@@ -33,3 +33,5 @@ Choose one pair of narratives assigned for today and write up a coherent respons
 ### Narrative Essay: Kernel and Motive
 
 ### Critical Review
+
+### Scientific American Update
