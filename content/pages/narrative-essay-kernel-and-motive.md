@@ -35,7 +35,7 @@ Remember that your comments are intended to help the writer create a more compel
 
 I will announce partner assignments just before you begin work on this peer-review assignment.  I will reorganize workshop groups throughout the semester so that you will have a chance to work with different students each time.  I will try to ensure that each of you is in the largest group only once.  
 
-**Questions to consider in your comments on the narrative essay.**
+#### Questions to consider in your comments on the narrative essay.
 
 1. **Introduction**: Do the first few paragraphs draw you into the narrative essay?  Do they point you in the right direction?  If not, can you suggest minor revisions or additions that would make the introduction more engaging and effective?
 2. **Background information** (setting and context):  What kind of background information does the author provide? Do we know enough to appreciate the narrative?  Suggestions for additions or changes?
