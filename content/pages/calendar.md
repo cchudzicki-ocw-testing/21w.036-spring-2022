@@ -34,7 +34,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
     - Jack Turner, “Introduction” and “Return” from *Teewinot* \[Wyoming\];
 - “Rhetoric: Writing about Personal Experience” from *Writing Nature* by Carolyn Ross.
 
-**Writing:**  Post commentary on assigned readings.
+**Writing:**  Post Narrative Commentary #1 on assigned readings.
 
 **In Class:** Narrative writing and self-discovery: uncovering an idea.
 
@@ -45,7 +45,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 - Ellen Meloy: “The Inverse Cordillera” and “The Flora and Fauna of Las Vegas” from *Raven’s Exile*;
 - Barry Lopez: “Gone Back into the Earth” from *Crossing Open Ground* and an excerpt from “A Northern Passage” in *Arctic Dreams*.
 
-**Writing:** Post new commentary on reading and pre-writing for narrative essay.
+**Writing:** Post Narrative Commentary #2 on reading and Preparation for Narrative Essay.
 
 **In Class:** Ideas and the narrative essay: why choose this form? 
 
@@ -66,7 +66,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Reading:** None assigned.
 
-**Writing:** Write up & post comments on partners’ essays.
+**Writing:** Narrative Essay Peer Review. Write up & post comments on partners’ essays.
 
 **In Class:**  Workshop on narrative essay.
 
@@ -89,7 +89,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Viewing:**  Choose a pair of documentaries and view both at least twice. (Available online.)
 
-**Writing:**  Pre-draft exercise #1 on pair of documentaries.
+**Writing:**  Critical Review Pre-draft Exercise #1 on pair of documentaries.
 
 **In Class: ** Critical Review: Getting from an “opinion” to an idea. 
 
@@ -103,7 +103,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 - Read articles related to the topic of your documentaries (located with help of instructor).
 - Read broader articles on communicating science (posted on class site).
 
-**Writing:** Pre-draft exercise #2 on pair of documentaries.
+**Writing:** Critical Review Pre-Draft Exercise #2 on pair of documentaries.
 
 **In Class:** Recognizing your sources. 
 
@@ -113,7 +113,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Reading:**  Additional readings on communicating science.
 
-**Writing:** Pre-draft exercise #3 on pair of documentaries
+**Writing:** Critical Review Pre-Draft Exercise #3 on pair of documentaries
 
 **In Class:** Getting from an “opinion” to an idea, cont.
 
@@ -127,7 +127,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 #### Session 12          
 
-**Writing:** Peer Review & prep for next assignment 
+**Writing:** Critical Review Peer Review & *Scientific American* Select Two Older Articles. 
 
 - Write up comments on partners’ critical reviews.
 - Select **two** possible starting points (see list of articles) for your *Scientific American.* Update and post article titles on course website.
