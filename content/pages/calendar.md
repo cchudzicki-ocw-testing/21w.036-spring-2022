@@ -70,8 +70,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **In Class:**  Workshop on narrative essay.
 
-### Communicating Environmental Science   
-Part One: Documentaries for the General Public
+### Communicating Environmental Science Part One: Documentaries for the General Public
 
 #### Session 7
 
@@ -135,8 +134,7 @@ Part One: Documentaries for the General Public
 
 **In Class:**  Workshop on Critical Review.
 
-### Communicating Environmental Science   
-Part Two: Writing for the General Public
+### Communicating Environmental Science Part Two: Writing for the General Public
 
 #### Session 13           
 
@@ -213,8 +211,7 @@ Part Two: Writing for the General Public
 
 **In Class:** Workshop on *Scientific American* update.   
 
-### Communicating Environmental Science   
-Part Three: Speaking to the Public
+### Communicating Environmental Science Part Three: Speaking to the Public
 
 #### Session 21 
 
