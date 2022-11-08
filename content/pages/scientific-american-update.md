@@ -41,3 +41,7 @@ List of older *Scientific American* (and *Nature*) articles:
     - “The need to tackle global climate change and energy security makes developing alternatives to fossil fuels crucial.  Here is how the stack up.”   (For your update, you should focus on one alternative.)
 - “Methane: A Menace Surfaces” by Katey Walter Anthony, SA, Dec. 2009
     - “Arctic permafrost is already thawing, creating lakes that emit methane. the heat-trapping gas could dramatically accelerate global warming. How big is the threat? What can be done?”
+
+### Two-Paragraph Summary
+
+Two-paragraph summary of the older article that will provide the point of departure for your *Scientific American* update.
