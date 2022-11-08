@@ -30,11 +30,11 @@ I have assigned two pairs of narratives for this class.  Each of the narratives
 
 Choose one pair of narratives assigned for today and write up a coherent response to the above series of questions (c. 300 words).  Do not summarize the two works; delve into the deeper logic that shapes each one.  Be sure to include evidence from the two narratives.
 
-### Narrative Essay: Kernel and Motive
+### {{% resource_link "231da9b6-0c7a-4272-ace3-00d6d53306da" "Narrative Essay: Kernel and Motive" %}}
 
-### Critical Review
+### {{% resource_link "2c045ca9-30d0-42e0-9120-5a843ee01181" "Critical Review" %}}
 
-### Scientific American Update
+### {{% resource_link "a915b967-2c3f-47ed-af29-84715a92555f" "Scientific American Update" %}}
 
 ### TED Talk Commentary
 
@@ -64,3 +64,15 @@ Search talks at [TED Talks](https://www.ted.com/talks)[![](data:image/svg+xml;ba
 4. Comment on number of slides shown during the TED talk—too many, too few, just right?
     - Explain your reasoning.
 5. What would you do differently if you were presenting this material?
+
+### Second Revision
+
+A second revision of one major writing assignment: the narrative essay, the critical review, or the *Scientific American* Update.
+
+#### Objectives for Revision
+
+Write out at least three objectives to pursue as you revise your selected assignment a second time.
+
+#### Passage for Revision
+
+Post a segment (2-3 full paragraphs) of the essay that you have chosen to revise for the final assignment.  In class, you will continue revising in collaboration with one or more partners.
