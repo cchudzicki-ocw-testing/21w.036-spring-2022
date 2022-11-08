@@ -6,6 +6,8 @@ draft: false
 title: Calendar
 uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 ---
+Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b498e4045246" "readings" %}} and {{% resource_link "93e89302-57fc-4ade-b78c-f876ea240701" "assignments" %}} pages.
+
 ### The Distinctive Role of Narrative Non-Fiction
 
 #### Session 1:  Introduction
@@ -18,7 +20,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Writing:** Introductory exercise. 
 
-**In Class:**  Read responses in pairs and introduce one another. 
+**In Class:** Read responses in pairs and introduce one another. 
 
 - Read and discuss “Three short pieces” by John Muir.
 
@@ -34,7 +36,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
     - Jack Turner, “Introduction” and “Return” from *Teewinot* \[Wyoming\];
 - “Rhetoric: Writing about Personal Experience” from *Writing Nature* by Carolyn Ross.
 
-**Writing:**  Post Narrative Commentary #1 on assigned readings.
+**Writing:** Post Narrative Commentary #1 on assigned readings.
 
 **In Class:** Narrative writing and self-discovery: uncovering an idea.
 
@@ -56,9 +58,9 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Reading:** Two sample student narrative essays (your choice).
 
-**Writing:**  First version of Narrative Essay due in class.
+**Writing:** First version of Narrative Essay due in class.
 
-**In Class:**  Distinctive nature of narrative introduction. 
+**In Class:** Distinctive nature of narrative introduction. 
 
 - Workshop on introductions.
 
@@ -68,7 +70,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Writing:** Narrative Essay Peer Review. Write up & post comments on partners’ essays.
 
-**In Class:**  Workshop on narrative essay.
+**In Class:** Workshop on narrative essay.
 
 ### Communicating Environmental Science Part One: Documentaries for the General Public
 
@@ -76,7 +78,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Reading:** None assigned.
 
-**Writing:**  Final version of Narrative Essay due.
+**Writing:** Final version of Narrative Essay due.
 
 **In Class:** Thinking critically about documentaries. 
 
@@ -87,18 +89,18 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Reading:** Sample student critical review.
 
-**Viewing:**  Choose a pair of documentaries and view both at least twice. (Available online.)
+**Viewing:** Choose a pair of documentaries and view both at least twice. (Available online.)
 
-**Writing:**  Critical Review Pre-draft Exercise #1 on pair of documentaries.
+**Writing:** Critical Review Pre-draft Exercise #1 on pair of documentaries.
 
-**In Class: ** Critical Review: Getting from an “opinion” to an idea. 
+**In Class:** Critical Review: Getting from an “opinion” to an idea. 
 
 - Review general articles on science documentaries.
 - Meet in small groups to discuss documentaries & develop collaborative summaries.
 
 #### Session 9
 
-**Reading: ** Developing a context for your critical review.
+**Reading:** Developing a context for your critical review.
 
 - Read articles related to the topic of your documentaries (located with help of instructor).
 - Read broader articles on communicating science (posted on class site).
@@ -111,7 +113,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 #### Session 10           
 
-**Reading:**  Additional readings on communicating science.
+**Reading:** Additional readings on communicating science.
 
 **Writing:** Critical Review Pre-Draft Exercise #3 on pair of documentaries
 
@@ -132,7 +134,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 - Write up comments on partners’ critical reviews.
 - Select **two** possible starting points (see list of articles) for your *Scientific American.* Update and post article titles on course website.
 
-**In Class:**  Workshop on Critical Review.
+**In Class:** Workshop on Critical Review.
 
 ### Communicating Environmental Science Part Two: Writing for the General Public
 
@@ -199,7 +201,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 #### Session 19            
 
-**Reading:**  Neosha Narayanan’s “Saving Our Pollinators” from *Angles* 2019 and one current student draft.
+**Reading:** Neosha Narayanan’s “Saving Our Pollinators” from *Angles* 2019 and one current student draft.
 
 **In Class:** Discuss “Saving Our Pollinators.’
 
