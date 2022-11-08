@@ -5,9 +5,11 @@ draft: false
 title: Assignments
 uid: 93e89302-57fc-4ade-b78c-f876ea240701
 ---
-See the \[calendar\] for assignment dates.
+See the {{% resource_link "4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a" "calendar" %}} for an overview of assignment dates. Dates indicate when an assignment is due.
 
 ### Introductory Exercise
+
+**Session #2**
 
 One of our key goals for this semester is to understand how to adapt our writing to the needs of a particular audience.  For this exercise and for your first essay, you should write for your fellow students—all of them.
 
@@ -20,23 +22,61 @@ If all goes well, your readers will visualize this setting as it appears in your
 
 ### Narrative Commentary #1
 
+**Session #3**
+
 All of the autobiographical narratives assigned for today explore the relationship between place and identity.  Some look for the source of identity in the landscapes of childhood; others seek new identities in new settings.  Choose one of the three longer autobiographical narratives assigned for February 8th, and write up a brief commentary (c. 300 words) in which you explain the relationship between place and identity as you see it in this narrative.  What aspects of the setting matter to the author?  How does the setting shape them?  How does the author relate to the other inhabitants (past or present) of this distinctive setting?
 
 Keep in mind that you will be sharing this commentary with your classmates.  Make sure that you provide them with supporting evidence and that you spell out the guiding logic.
 
 ### Narrative Commentary #2
 
+**Session #4**
+
 I have assigned two pairs of narratives for this class.  Each of the narratives explores an author’s deep feelings about a particular environment. As you read each narrative (three essays and one excerpt from a longer work), try to figure out the writer’s motive.  Then, choose one of the pairs and explore the relationship between the two narrative works.  What do you see as the central idea of each work?  Do the two works written by one author express the same basic values?  How can you tell?  Why do you imagine that the author chose to explore his or her ideas in narrative form?
 
 Choose one pair of narratives assigned for today and write up a coherent response to the above series of questions (c. 300 words).  Do not summarize the two works; delve into the deeper logic that shapes each one.  Be sure to include evidence from the two narratives.
 
-### {{% resource_link "231da9b6-0c7a-4272-ace3-00d6d53306da" "Narrative Essay: Kernel and Motive" %}}
+### Narrative Essay: Kernel and Motive
 
-### {{% resource_link "2c045ca9-30d0-42e0-9120-5a843ee01181" "Critical Review" %}}
+See {{% resource_link "231da9b6-0c7a-4272-ace3-00d6d53306da" "narrative essay assignment details" %}}.
 
-### {{% resource_link "a915b967-2c3f-47ed-af29-84715a92555f" "Scientific American Update" %}}
+**Due dates:**
+
+- Preparation for Narrative Essay - Session #4
+- First Version - Session #5
+- Peer Review - Session #6
+- Final Version - Session #7
+
+### Critical Review
+
+See {{% resource_link "2c045ca9-30d0-42e0-9120-5a843ee01181" "critical review assignment details" %}}.
+
+**Due dates:**
+
+- Pre-Draft Exercise 1 - Session #8
+- Pre-Draft Exercise 2 - Session #9
+- Pre-Draft Exercise 3 - Session #10
+- First Version - Session #11
+- Peer Review - Session #12
+- Final Versio - Session #13
+
+### *Scientific American* Update
+
+See {{% resource_link "a915b967-2c3f-47ed-af29-84715a92555f" "Scientific American update assignment details" %}}.
+
+**Due dates:**
+
+- Select Two Older Articles - Session #14
+- Two-Paragraph Summary - Session #15
+- Preliminary Research - Session #16
+- Proposal - Session #17
+- First Version - Session #18
+- Peer Review - Session #20
+- Final Version - Session #21
 
 ### TED Talk Commentary
+
+**Session #22**
 
 Watch three of the following talks.  You might prefer to look at ones that do not cover your own topic.
 
@@ -71,8 +111,18 @@ A second revision of one major writing assignment: the narrative essay, the crit
 
 #### Objectives for Revision
 
+**Session #24**
+
 Write out at least three objectives to pursue as you revise your selected assignment a second time.
 
 #### Passage for Revision
 
+**Session #25**
+
 Post a segment (2-3 full paragraphs) of the essay that you have chosen to revise for the final assignment.  In class, you will continue revising in collaboration with one or more partners.
+
+#### Final Revision
+
+**Session #26**
+
+Post your second revision of an earlier paper.
