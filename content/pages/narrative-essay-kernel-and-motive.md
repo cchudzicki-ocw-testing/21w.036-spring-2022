@@ -5,12 +5,6 @@ draft: false
 title: 'Narrative Essay: Kernel and Motive'
 uid: 231da9b6-0c7a-4272-ace3-00d6d53306da
 ---
-### Preparation for Narrative Essay
-
-Describe the kernel and motive for the narrative essay due next week.  The “kernel” is the image, event, or individual that forms the starting point or seed of your narrative essay.  The “motive” is the question or insight that you want to get at in your narrative essay.  Remember—this idea need not take the form of an argument.  A narrative essay often generates more questions than answers. You should write at least two sentences about each element, but you should feel free to write much more.  If you have any questions about how you might build upon these basic elements, feel free to include those questions in your exercise. 
-
-### First Version
-
 Think about your reactions to the assigned readings.  Perhaps there is an experience in your own past that has shaped your feelings about the natural environment or about environmental science?  Or perhaps some experience set you on the path to the specific field that interests you now?  Whatever experience you choose to explore in your personal narrative, be sure to help your readers enter into the experience; do not give us a grand overview.   Make clear why it matters to you.  Don’t feel that you need to write about some dramatic, inspiring event.  There may be more to discover in an experience that left you confused or uneasy.
 
 You may choose to write about experiences from your high school years, but you should probably steer away from the events of the past year.  (Carolyn Ross explains the challenges of writing about recent events in “Rhetoric: Writing about Personal Experience.”)  If, however, you draw a blank when presented with so much freedom, I would be happy to provide additional guidance.
@@ -20,6 +14,12 @@ Remember that most of your fellow students know little about the circumstances o
 You may find it useful to think of yourself as a storyteller sitting with a group of MIT friends late at night, summoning up a world that these new friends can know only through you.
 
 A successful essay cannot, however, simply record a series of events or feelings.  An essay is not a platter of mental food to be handed over to the reader.  You need to take an active role in reflecting upon your experience.  Taken literally, the term “personal narrative” can be misleading.  The essay should not sound like an overgrown journal entry.  The material that you draw upon can grow and change shape as you craft your essay.  You should develop the most revealing details and omit those that are distracting or unproductive.   Make sure that you have read Carolyn Ross’s chapter on “Writing about Personal Experience” and thought about its implications for your particular subject.
+
+### Preparation for Narrative Essay
+
+Describe the kernel and motive for the narrative essay due next week.  The “kernel” is the image, event, or individual that forms the starting point or seed of your narrative essay.  The “motive” is the question or insight that you want to get at in your narrative essay.  Remember—this idea need not take the form of an argument.  A narrative essay often generates more questions than answers. You should write at least two sentences about each element, but you should feel free to write much more.  If you have any questions about how you might build upon these basic elements, feel free to include those questions in your exercise. 
+
+### First Version
 
 The first version of this essay should be at least 1000 words long.  The revised essay should be at least 1250 words long.  Make the first version as complete as possible.  It should not be a rough draft.  Proofread and edit your essay.
 
