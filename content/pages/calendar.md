@@ -89,7 +89,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Viewing:**  Choose a pair of documentaries and view both at least twice. (Available online.)
 
-**Writing:**  Pre-draft exercise 2.1 on pair of documentaries.
+**Writing:**  Pre-draft exercise #1 on pair of documentaries.
 
 **In Class: ** Critical Review: Getting from an “opinion” to an idea. 
 
@@ -103,7 +103,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 - Read articles related to the topic of your documentaries (located with help of instructor).
 - Read broader articles on communicating science (posted on class site).
 
-**Writing:** Pre-draft exercise 2.2 on pair of documentaries.
+**Writing:** Pre-draft exercise #2 on pair of documentaries.
 
 **In Class:** Recognizing your sources. 
 
@@ -113,7 +113,7 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Reading:**  Additional readings on communicating science.
 
-**Writing:** Pre-draft exercise 2.3 on pair of documentaries
+**Writing:** Pre-draft exercise #3 on pair of documentaries
 
 **In Class:** Getting from an “opinion” to an idea, cont.
 
@@ -159,9 +159,9 @@ uid: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
 
 **Reading:** 
 
-- Go back to the article that will provide a starting point for your *Scientific American* R**ead it carefully**.
-- **Read** “Finding Stories” from *Ideas into Words* by Elise Hancock & “Science and Technology” from *On Writing Well* by William Zinsser. Think about narrative strategies that you might use for your Update.
-- **Read two student** ***Scientific American*** **Updates**.
+- Go back to the article that will provide a starting point for your *Scientific American.* **Read it carefully**.
+- Read “Finding Stories” from *Ideas into Words* by Elise Hancock & “Science and Technology” from *On Writing Well* by William Zinsser. Think about narrative strategies that you might use for your Update.
+- Read two student *Scientific American* Updates.
 
 **Writing:** Write a two-paragraph summary (c. 200 words) of the article you have chosen.
 
