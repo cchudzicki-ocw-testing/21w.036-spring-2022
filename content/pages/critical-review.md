@@ -19,7 +19,7 @@ Each of the listed documentaries attempts to bridge the distance between the wor
 
 Remember your intended audience and your intended goal.  Keep in mind that the folks at the Green Media Institute may not have seen either of the video documentaries that you plan to examine.
 
-### Pre-draft exercise #1
+### Pre-Draft Exercise #1
 
 1. Identify the pair of documentaries that you plan to examine in your critical review.
 2. Provide full identifying information for each documentary.
@@ -29,7 +29,7 @@ Remember your intended audience and your intended goal.  Keep in mind that the 
     4. \[If relevant\] Narrator/Host
 3. List two or three initial observations about the different strategies adopted by the directors/producers of your documentaries.
 
-**Preparation/Advice for first phase of critical review assignment:**
+#### Preparation/Advice for first phase of critical review assignment
 
 - Rationale for pre-draft exercise #1:
     - Director’s name—the decision maker (should play an active & explicit role in your discussion). Find out info on director et al.
@@ -47,7 +47,7 @@ Remember your intended audience and your intended goal.  Keep in mind that the 
     - No draft is complete without Works Cited list!
     - Write a letter to your workshop partners
 
-### Pre-draft Exercise #2
+### Pre-Draft Exercise #2
 
 1. Identify the article or articles that provide background information on the topic that provides a focus for the documentaries you plan to analyze. (You are in charge of finding these articles, but I am happy to help.)
     - Describe briefly what kind of information it provides.
@@ -55,7 +55,7 @@ Remember your intended audience and your intended goal.  Keep in mind that the 
     - Describe briefly what role the article or articles might play in your critical review. What perspective does the article provide?
     - (You may choose a different article later if your own ideas change, but do your best to select an article or articles that will help you develop your ideas.)
 
-### Pre-draft Exercise #3
+### Pre-Draft Exercise #3
 
 Briefly describe central idea for your critical review (½ page); then, create a tentative outline for your critical review.  The outline should highlight the development of your central idea, not just the sequence of topics. Come to class prepared to discuss your outline.
 
@@ -76,7 +76,7 @@ Begin by reading your partners’ critical reviews for pleasure.  Then, take a 
 
 Remember that your comments are intended to help the writer create a more compelling version of his or her critical review.  Be tactful and complete.  I have not asked you to comment on the writer’s grammatical or mechanical errors.  I will take care of those problems myself.  Thank you in advance for your thoughtful comments.
 
-**Questions for the Critical Review**
+#### Questions for the Critical Review
 
 SPECIFICS:
 
@@ -106,6 +106,6 @@ Reminders for revised version:
 
 - Identify your writers and directors (or producers) in the body of your critical review and include any relevant background information.
 - Use the MLA in-text citation system. You can find information on this citation system on the web (check out the Purdue OWL site).
-- Remember to include a list of “Works Cited” at the end of your essay. Without such a list, your readers have no way of locating the sources that you mention in your essay.  **The absence of a Works Cited list will result in an automatic grade penalty.**      
+- Remember to include a list of “Works Cited” at the end of your essay. Without such a list, your readers have no way of locating the sources that you mention in your essay.  **The absence of a Works Cited list will result in an automatic grade penalty.**       
     Documentaries, articles, and websites should all appear in your list of works cited.
 - Revised version must be between 1700 and 2000 words long.
