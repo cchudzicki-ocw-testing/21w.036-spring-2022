@@ -5,13 +5,13 @@ draft: false
 title: Assignments
 uid: 93e89302-57fc-4ade-b78c-f876ea240701
 ---
-See the {{% resource_link "4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a" "calendar" %}} for an overview of assignment dates. Dates indicate when an assignment is due.
+Dates indicate when an assignment is due.
 
 ### Introductory Exercise
 
 **Session #2**
 
-One of our key goals for this semester is to understand how to adapt our writing to the needs of a particular audience.  For this exercise and for your first essay, you should write for your fellow students—all of them.
+One of our key goals for this semester is to understand how to adapt our writing to the needs of a particular audience. For this exercise and for your first essay, you should write for your fellow students—all of them.
 
 Take some time to reflect on the physical places that have been important to you as you were growing up—places outside of your own home.  Pay particular attention to outdoor settings.  Choose one of these places and describe it as fully and precisely as you can.  If all of the places that come to mind are interiors (e.g. schools, old barns, grandparents’ homes), go ahead and write about one of them.  Initially, just devote yourself to the task of bringing this place to life for your readers.  Focus on the particular features that matter to you, but hold off on describing your feelings and explaining your perspective.  Use precise nouns and concrete adjectives; steer clear of emphatic adverbs (e.g. “extremely”) and abstract nouns (e.g. “nature”).
 
@@ -80,7 +80,7 @@ See {{% resource_link "a915b967-2c3f-47ed-af29-84715a92555f" "Scientific America
 
 Watch three of the following talks.  You might prefer to look at ones that do not cover your own topic.
 
-Search talks at [TED Talks](https://www.ted.com/talks)[![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTkyMCAxOTIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8cGF0aCBkPSJNMTIyNi42NjY2NywyNjcgQzEzMTQuODgsMjY3IDEzODYuNjY2NjcsMzM4Ljc4NjY2NyAxMzg2LjY2NjY3LDQyNyBMMTM4Ni42NjY2Nyw0MjcgTDEzODYuNjY2NjcsODUzLjY2NjY2NyBMMTI4MCw4NTMuNjY2NjY3IEwxMjgwLDY5My42NjY2NjcgTDEwNi42NjY2NjcsNjkzLjY2NjY2NyBMMTA2LjY2NjY2NywxNDkzLjY2NjY3IEMxMDYuNjY2NjY3LDE1MjMgMTMwLjU2LDE1NDcgMTYwLDE1NDcgTDE2MCwxNTQ3IEwxMjI2LjY2NjY3LDE1NDcgQzEyNTYuMTA2NjcsMTU0NyAxMjgwLDE1MjMgMTI4MCwxNDkzLjY2NjY3IEwxMjgwLDE0OTMuNjY2NjcgTDEyODAsMTI4MC4zMzMzMyBMMTM4Ni42NjY2NywxMjgwLjMzMzMzIEwxMzg2LjY2NjY3LDE0OTMuNjY2NjcgQzEzODYuNjY2NjcsMTU4MS44OCAxMzE0Ljg4LDE2NTMuNjY2NjcgMTIyNi42NjY2NywxNjUzLjY2NjY3IEwxMjI2LjY2NjY3LDE2NTMuNjY2NjcgTDE2MCwxNjUzLjY2NjY3IEM3MS43ODY2NjY3LDE2NTMuNjY2NjcgMCwxNTgxLjg4IDAsMTQ5My42NjY2NyBMMCwxNDkzLjY2NjY3IEwwLDQyNyBDMCwzMzguNzg2NjY3IDcxLjc4NjY2NjcsMjY3IDE2MCwyNjcgTDE2MCwyNjcgWiBNMTU4NC4zNzMzMyw3MDkuMjkzMzMzIEwxOTA0LjM3MzMzLDEwMjkuMjkzMzMgQzE5MjUuMTczMzMsMTA1MC4wOTMzMyAxOTI1LjE3MzMzLDEwODMuOTA2NjcgMTkwNC4zNzMzMywxMTA0LjcwNjY3IEwxOTA0LjM3MzMzLDExMDQuNzA2NjcgTDE1ODQuMzczMzMsMTQyNC43MDY2NyBMMTUwOC45NiwxMzQ5LjI5MzMzIEwxNzM3Ljg2NjY3LDExMjAuMzg2NjcgTDkwNi42MTMzMzMsMTEyMC4zODY2NyBMOTA2LjYxMzMzMywxMDEzLjcyIEwxNzM3Ljg2NjY3LDEwMTMuNzIgTDE1MDguOTYsNzg0LjcwNjY2NyBMMTU4NC4zNzMzMyw3MDkuMjkzMzMzIFogTTEyMjYuNjY2NjcsMzczLjY2NjY2NyBMMTYwLDM3My42NjY2NjcgQzEzMC41NiwzNzMuNjY2NjY3IDEwNi42NjY2NjcsMzk3LjY2NjY2NyAxMDYuNjY2NjY3LDQyNyBMMTA2LjY2NjY2Nyw0MjcgTDEwNi42NjY2NjcsNTg3IEwxMjgwLDU4NyBMMTI4MCw0MjcgQzEyODAsMzk3LjY2NjY2NyAxMjU2LjEwNjY3LDM3My42NjY2NjcgMTIyNi42NjY2NywzNzMuNjY2NjY3IEwxMjI2LjY2NjY3LDM3My42NjY2NjcgWiIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4K)](http://www.ted.com/talks) or [YouTube](www.youtube.com).
+Search talks at [TED Talks](https://www.ted.com/talks) or [YouTube](www.youtube.com).
 
 - James Hansen: “Why I must speak out about climate change” (2012)
 - James Balog: “Time-Lapse Proof of extreme ice loss” (2009)
