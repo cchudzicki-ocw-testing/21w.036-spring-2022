@@ -4,7 +4,27 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
@@ -27,6 +47,8 @@
     "content": "",
     "website": "21w036-science-writing-and-new-media"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
   "site_uid": "fc05a2cf-c4d1-4d8a-870c-5b10e4d1ecb1"
 }
