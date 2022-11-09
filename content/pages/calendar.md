@@ -10,13 +10,13 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 ### The Distinctive Role of Narrative Non-Fiction
 
-#### Session 1:  Introduction
+#### Session 1: Introduction
 
 **Readings:** None assigned.
 
-#### Session 2               
+#### Session 2
 
-**Reading:**  “Quiet! Sleeping Brain at Work.”
+**Reading:** “Quiet! Sleeping Brain at Work.”
 
 **Writing:** Introductory exercise. 
 
@@ -24,7 +24,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 - Read and discuss “Three short pieces” by John Muir.
 
-#### Session 3          
+#### Session 3
 
 **Reading:** Narrative essays—Where do I belong?
 
@@ -54,7 +54,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 - Using a writer’s reference manual & Purdue’s OWL
 - Review one sample student essay in class.
 
-#### Session 5              
+#### Session 5
 
 **Reading:** Two sample student narrative essays (your choice).
 
@@ -111,7 +111,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 - MLA documentation. Other documentation styles.
 
-#### Session 10           
+#### Session 10
 
 **Reading:** Additional readings on communicating science.
 
@@ -119,7 +119,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **In Class:** Getting from an “opinion” to an idea, cont.
 
-#### Session 11             
+#### Session 11
 
 **Writing:** First version of Critical Review due in class. 
 
@@ -127,7 +127,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 - Workshop on introductions.
 
-#### Session 12          
+#### Session 12
 
 **Writing:** Critical Review Peer Review & *Scientific American* Select Two Older Articles. 
 
@@ -138,13 +138,13 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 ### Communicating Environmental Science Part Two: Writing for the General Public
 
-#### Session 13           
+#### Session 13
 
 **Writing:** Final version of Critical Review due.
 
 **In Class:** Library session.
 
-#### Session 14            
+#### Session 14
 
 **Reading:** Preparing for the *Scientific American* Update. 
 
@@ -157,7 +157,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 - Discuss differences between a scholarly review article and a magazine article that provides an overview of a topic or issue (audience, function, structure, evidence, language).
 
-#### Session 15            
+#### Session 15
 
 **Reading:** 
 
@@ -169,7 +169,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **In Class:** Discuss differing documentation strategies for scientific review article and magazine article.
 
-#### Session 16              
+#### Session 16
 
 **Reading:** Individual research
 
@@ -183,23 +183,23 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **In Class:** How do you write a proposal for scientific magazine article? 
 
-- To consider: How do you preserve the boundary between you and your sources?                 
+- To consider: How do you preserve the boundary between you and your sources?
 
-#### Session 17               
+#### Session 17
 
-**Reading:** Find and read additional material, possibly including recent news articles, to prepare for your *Scientific American* Update.  *Science News* might be a useful source.
+**Reading:** Find and read additional material, possibly including recent news articles, to prepare for your *Scientific American* Update. *Science News* might be a useful source.
 
-**Writing:** Write proposal for your *Scientific American* Update (150-200 words).  
+**Writing:** Write proposal for your *Scientific American* Update (150-200 words). 
 
 **In Class:** Proposal workshop.
 
-#### Session 18            
+#### Session 18
 
 **Writing:** First version of *Scientific American* update due.
 
-**In Class:**  Discuss strategies selected by students.
+**In Class:** Discuss strategies selected by students.
 
-#### Session 19            
+#### Session 19
 
 **Reading:** Neosha Narayanan’s “Saving Our Pollinators” from *Angles* 2019 and one current student draft.
 
@@ -207,31 +207,31 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 - Whole class workshop of draft *SA* Update.
 
-#### Session 20             
+#### Session 20
 
 **Writing:** Write up comments on partners’ update articles.
 
-**In Class:** Workshop on *Scientific American* update.   
+**In Class:** Workshop on *Scientific American* update. 
 
 ### Communicating Environmental Science Part Three: Speaking to the Public
 
-#### Session 21 
+#### Session 21
 
 **Writing:** Final Version of *Scientific American* update due.
 
-**In Class:** Bring laptop or iPad to class.  Discuss oral presentations and slide composition. 
+**In Class:** Bring laptop or iPad to class. Discuss oral presentations and slide composition. 
 
 - View Al Gore’s recent TED talk on Climate Change.
 - Individually, view one of TED talks from assignment list.
 - Together, discuss criteria for slide presentations.
 
-#### Session 22         
+#### Session 22
 
 **Reading/Class Preparation:** Watch three TED talks from assignment list.
 
-**Writing:** Write up brief response to each talk in response to assigned questions.   
+**Writing:** Write up brief response to each talk in response to assigned questions. 
 
-**In Class:** Oral presentations          
+**In Class:** Oral presentations
 
 #### Session 23
 
@@ -239,9 +239,9 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 ### Refining Your Work: Bringing it all Together
 
-#### Session 24               
+#### Session 24
 
-**Reading:**  Reread your three major writing assignments for the semester & review the feedback you received. 
+**Reading:** Reread your three major writing assignments for the semester & review the feedback you received. 
 
 - Select the assignment that you plan to revise a second time.
 
@@ -249,7 +249,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **In Class:** Final oral presentations.
 
-#### Session 25            
+#### Session 25
 
 **Writing:** Continue revising selected assignment. 
 
@@ -259,7 +259,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 - Sentence-level feedback from your peers.
 
-#### Session 26         
+#### Session 26
 
 **Reading:** Track down one of your favorite books, stories, or poems, and select a passage or poem to read in class.
 
