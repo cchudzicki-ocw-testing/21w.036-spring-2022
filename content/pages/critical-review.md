@@ -19,6 +19,8 @@ Each of the listed documentaries attempts to bridge the distance between the wor
 
 Remember your intended audience and your intended goal.  Keep in mind that the folks at the Green Media Institute may not have seen either of the video documentaries that you plan to examine.
 
+Read {{% resource_link "0f7752ed-41a3-4511-be96-3883074d09b6" "Preparation for Critical Review (PDF)" %}} {{% resource_link "5675dd66-953c-45a3-a001-5a3f56f12fb4" "(DOC)" %}}.
+
 ### Pre-Draft Exercise #1
 
 1. Identify the pair of documentaries that you plan to examine in your critical review.
@@ -106,6 +108,6 @@ Reminders for revised version:
 
 - Identify your writers and directors (or producers) in the body of your critical review and include any relevant background information.
 - Use the MLA in-text citation system. You can find information on this citation system on the web (check out the Purdue OWL site).
-- Remember to include a list of “Works Cited” at the end of your essay. Without such a list, your readers have no way of locating the sources that you mention in your essay.  **The absence of a Works Cited list will result in an automatic grade penalty.**       
+- Remember to include a list of “Works Cited” at the end of your essay. Without such a list, your readers have no way of locating the sources that you mention in your essay.  **The absence of a Works Cited list will result in an automatic grade penalty.**        
     Documentaries, articles, and websites should all appear in your list of works cited.
 - Revised version must be between 1700 and 2000 words long.
