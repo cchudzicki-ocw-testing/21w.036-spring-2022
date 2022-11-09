@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Written Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT21W-036S22_critreview.doc
+title: Preparation for Critical Review
 uid: 5675dd66-953c-45a3-a001-5a3f56f12fb4
 video_files:
   video_captions_file: ''
