@@ -57,7 +57,7 @@ Choose a pair of documentaries from the {{% resource_link "19ddb4d4-2f6a-4255-97
 
 #### Session 9:
 
-1. Read {{% resource_link "0f7752ed-41a3-4511-be96-3883074d09b6" "Preparation for Critical Review (PDF)" %}} {{% resource_link "5675dd66-953c-45a3-a001-5a3f56f12fb4" "(DOC" %}}). ![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTkyMCAxOTIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8cGF0aCBkPSJNMTgwNy4wOTI3MSwxNDgyLjQ3NzE4IEwxODg2LjgyOTE4LDE1NjIuNDM5NTMgTDE1MzEuNTE2MjQsMTkxNy43NTI0NyBMMzU1LjM0NjgyNCwxOTE3Ljc1MjQ3IEwwLjAzMzg4MjM1MjksMTU2Mi40Mzk1MyBMNzkuODgzMjk0MSwxNDgyLjQ3NzE4IEw0MDIuMTA0NDcxLDE4MDQuODExMjkgTDE0ODQuNzU4NTksMTgwNC44MTEyOSBMMTgwNy4wOTI3MSwxNDgyLjQ3NzE4IFogTTk5Ny42NzcxNzYsLTAuMDMzODgyMzUyOSBMOTk3LjY3NzE3NiwxMTY2Ljk4NzI5IEwxMzUyLjk5MDEyLDgxMS42NzQzNTMgTDE0MzIuOTUyNDcsODkxLjUyMzc2NSBMOTQxLjA5MzY0NywxMzgzLjE1NjcxIEw0NDkuNDYwNzA2LDg5MS41MjM3NjUgTDUyOS40MjMwNTksODExLjY3NDM1MyBMODg0LjczNiwxMTY2Ljk4NzI5IEw4ODQuNzM2LC0wLjAzMzg4MjM1MjkgTDk5Ny42NzcxNzYsLTAuMDMzODgyMzUyOSBaIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPgo=)(Questions to guide your analysis.)
+1. Read {{% resource_link "0f7752ed-41a3-4511-be96-3883074d09b6" "Preparation for Critical Review (PDF)" %}} {{% resource_link "5675dd66-953c-45a3-a001-5a3f56f12fb4" "(DOC" %}}). (Questions to guide your analysis.)
 2. Read articles related to the topic of your documentaries (located with help of instructor).
 3. Read broader articles on communicating science. 
     - Pineda, Diego. "Editing a science documentary: more than words (literally!)." *Sci Ed* 27, no. 2 (2004): 47-49. 
@@ -79,7 +79,7 @@ No assigned readings.
 
 Preparing for the Scientific American Update.
 
-- Look through the list of \*\*\*\***older articles\*\*\*\*** that can provide a starting point for your Scientific American Update. Select an article that intrigues you and read it.
+- Look through the list of {{% resource_link "a915b967-2c3f-47ed-af29-84715a92555f" "older articles" %}} that can provide a starting point for your Scientific American Update. Select an article that intrigues you and read it.
 - Penrose, Ann and Steven Katz. "Reviewing Prior Research." Chapter Five in [*Writing in the Sciences: Exploring Conventions of Scientific Discourse*](https://parlorpress.com/products/writing-in-the-sciences-exploring-conventions-of-scientific-discourse). Third Edition. Open Access Version. Parlor Press, 2010. ISBN: 9781643171869.
 - Bednarek, Angela T. "Undamming rivers: a review of the ecological impacts of dam removal." *Environmental management* 27, no. 6 (2001): 803-814.
 - Marks, Jane C. "Down go the dams." *Scientific American* 296, no. 3 (2007): 66-71.
