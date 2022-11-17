@@ -31,7 +31,7 @@ The writing assignments will begin with those things that you know best—your o
 
 All of the readings for this course can be found on our course site. Each one is linked to a specific assignment and date.
 
-**Writer's Handbook**: If you do not own a writer’s handbook of some kind, Purdue’s Online Writing Lab (OWL) is an excellent resource. At times, you may also want to consult *The Mayfield Handbook of Scientific and Technical Writing*, available online through the MIT Writing and Communication Center.
+**Writer's Handbook**: If you do not own a writer’s handbook of some kind, Purdue’s Online Writing Lab (OWL) is an excellent resource. 
 
 ### Assignments
 
