@@ -11,7 +11,7 @@ No readings assigned.
 
 #### Session 2:
 
-Stickgold, Robert, and Jeffrey M. Ellenbogen. "Quiet! Sleeping brain at work." S*cientific American Mind* 19, no. 4 (2008): 22-29.
+Stickgold, Robert, and Jeffrey M. Ellenbogen. "Quiet! Sleeping brain at work." S*cientific American Mind*  19, no. 4 (2008): 22-29.
 
 #### Session 3:
 
@@ -60,7 +60,7 @@ Choose a pair of documentaries from the {{% resource_link "19ddb4d4-2f6a-4255-97
 1. Read {{% resource_link "0f7752ed-41a3-4511-be96-3883074d09b6" "Preparation for Critical Review (PDF)" %}} {{% resource_link "5675dd66-953c-45a3-a001-5a3f56f12fb4" "(DOC" %}}). (Questions to guide your analysis.)
 2. Read articles related to the topic of your documentaries (located with help of instructor).
 3. Read broader articles on communicating science. 
-    - Pineda, Diego. "Editing a science documentary: more than words (literally!)." *Sci Ed* 27, no. 2 (2004): 47-49. 
+    - Pineda, Diego. "[Editing a science documentary: more than words (literally!) (PDF)](http://www.councilscienceeditors.org/wp-content/uploads/v27n2p047-049.pdf)." *Sci Ed* 27, no. 2 (2004): 47-49. 
         - For context and terminology.
     - Read two articles from {{% resource_link "7569ba62-638b-4ed6-9435-d307d0125635" "this article list" %}}. Choose carefully. (An abstract/summary is included for each article.)
 
