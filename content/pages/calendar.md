@@ -16,7 +16,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 #### Session 2
 
-**Reading:** “Quiet! Sleeping Brain at Work.”
+**Reading:** Stickgold, Robert, and Jeffrey M. Ellenbogen. “Quiet! Sleeping Brain at Work.”
 
 **Writing:** Introductory exercise. 
 
@@ -150,7 +150,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 - Look through the list of topics and articles that can provide a starting point for your *Scientific American*
 - Select an article that intrigues you and read it.
-- Read “Reviewing Prior Research,” Chapter Five from *Writing in the Sciences* (omitting exercises);
+- Read “Reviewing Prior Research,” Chapter Five from *Writing in the Sciences* (omitting exercises) by Ann Penrose and Steven Katz.
 - Read “Undamming the Rivers: A Review” by Angela Bednarek and “Down go the Dams” by Jane Marks (from *Scientific American*).
 
 **In Class:** Understanding the link between genre and audience. 
