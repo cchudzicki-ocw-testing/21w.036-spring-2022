@@ -28,7 +28,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **Reading:** Narrative essays—Where do I belong?
 
-- O. Wilson, “Paradise Beach” from *Naturalist* \[Florida\]
+- E.O. Wilson, “Paradise Beach” from *Naturalist* \[Florida\]
 - Aldo Leopold, “February” from *A Sand County Almanac* \[Wisconsin\];
 - **One** of the following*:*
     - Donald Hall, “Winter” \[New Hampshire\];
