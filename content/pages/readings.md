@@ -60,13 +60,19 @@ Choose a pair of documentaries from the {{% resource_link "19ddb4d4-2f6a-4255-97
 3. Read broader articles on communicating science. 
     - Pineda, Diego. "[Editing a Science Documentary: More than Words (Literally!) (PDF)](http://www.councilscienceeditors.org/wp-content/uploads/v27n2p047-049.pdf)." *Sci Ed* 27, no. 2 (2004): 47–49. 
         - For context and terminology.
-    - Read two articles from {{% resource_link "7569ba62-638b-4ed6-9435-d307d0125635" "this article list" %}}. Choose carefully. (An abstract/summary is included for each article.)
+4. Read two articles from this list. Choose carefully. An abstract/summary is available for each article.
+    1. Nisbet, Matthew C., and Dietram A. Scheufele. "[What's Next for Science Communication? Promising Directions and Lingering Distractions](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.0900041)." *American Journal of Botany* 96, no. 10 (2009): 1767–1778.
+    2. Laursen, Sandra L., and Annette Brickley. "[Focusing the Camera Lens on the Nature of Science: Evidence for the Effectiveness of Documentary Film as a Broader Impacts Strategy](https://www.tandfonline.com/doi/full/10.5408/1.3604825)." *Journal of Geoscience Education* 59, no. 3 (2011): 126–138.
+    3. Dahlstrom, Michael F. "[Using Narratives and Storytelling to Communicate Science with Nonexpert Audiences](https://www.pnas.org/doi/full/10.1073/pnas.1320645111)." *Proceedings of the National Academy of Sciences* 111, no. supplement 4 (2014): 13614–13620.
+    4. Scheufele, Dietram A. "[Communicating Science in Social Settings](https://www.pnas.org/doi/full/10.1073/pnas.1213275110)." *Proceedings of the National Academy of Sciences* 110, no. supplement 3 (2013): 14040–14047.
+    5. Varner, Johanna. "[Scientific Outreach: Toward Effective Public Engagement with Biological Science](https://academic.oup.com/bioscience/article/64/4/333/248218)." *BioScience* 64, no. 4 (2014): 333-340.
+    6. Brossard, Dominique. "[New Media Landscapes and the Science Information Consumer](https://www.pnas.org/doi/full/10.1073/pnas.1212744110)." *Proceedings of the National Academy of Sciences* 110, no. supplement 3 (2013): 14096-14101.
 
 #### Session 10:
 
 Additional readings on communicating science: 
 
-- O’Connor, Cailin, and James Owen Weatherall. "Why we trust lies." *Scientific American, Sept* (2019).
+- O’Connor, Cailin, and James Owen Weatherall. "Why We Trust Lies." *Scientific American, Sept* (2019).
 - Kolbert, Elizabeth. "[Why Facts Don’t Change Our Minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)." *The New Yorker* 27, no. 2017 (2017): 47.
 
 #### Session 11–13:
