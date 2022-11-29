@@ -16,7 +16,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 #### Session 2
 
-**Reading:** Stickgold, Robert, and Jeffrey M. Ellenbogen. “Quiet! Sleeping Brain at Work.”
+**Reading:** Robert Stickgold and Jeffrey M. Ellenbogen, “Quiet! Sleeping Brain at Work.”
 
 **Writing:** Introductory exercise. 
 
@@ -28,11 +28,11 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **Reading:** Narrative essays—Where do I belong?
 
-- E.O. Wilson, “Paradise Beach” from *Naturalist* \[Florida\]
+- E.O. Wilson, “Paradise Beach” from *Naturalist* \[Florida\];
 - Aldo Leopold, “February” from *A Sand County Almanac* \[Wisconsin\];
-- **One** of the following*:*
+- **One** of the following:
     - Donald Hall, “Winter” \[New Hampshire\];
-    - Lauret Savoy, “The View from Point Sublime” or “A Stone’s Throw” \[Grand Canyon, Arizona\]
+    - Lauret Savoy, “The View from Point Sublime” or “A Stone’s Throw” \[Grand Canyon, Arizona\];
     - Jack Turner, “Introduction” and “Return” from *Teewinot* \[Wyoming\];
 - “Rhetoric: Writing about Personal Experience” from *Writing Nature* by Carolyn Ross.
 
@@ -42,7 +42,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 #### Session 4
 
-**Reading:** More narrative essays—Home and Away
+**Reading:** More narrative essays—Home and Away.
 
 - Ellen Meloy: “The Inverse Cordillera” and “The Flora and Fauna of Las Vegas” from *Raven’s Exile*;
 - Barry Lopez: “Gone Back into the Earth” from *Crossing Open Ground* and an excerpt from “A Northern Passage” in *Arctic Dreams*.
@@ -51,7 +51,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **In Class:** Ideas and the narrative essay: why choose this form? 
 
-- Using a writer’s reference manual & Purdue’s OWL
+- Using a writer’s reference manual & Purdue’s OWL.
 - Review one sample student essay in class.
 
 #### Session 5
@@ -115,7 +115,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **Reading:** Additional readings on communicating science.
 
-**Writing:** Critical Review Pre-Draft Exercise #3 on pair of documentaries
+**Writing:** Critical Review Pre-Draft Exercise #3 on pair of documentaries.
 
 **In Class:** Getting from an “opinion” to an idea, cont.
 
@@ -129,10 +129,10 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 #### Session 12
 
-**Writing:** Critical Review Peer Review & *Scientific American* Select Two Older Articles. 
+**Writing:** Critical Review Peer Review & *Scientific American.* Select Two Older Articles. 
 
 - Write up comments on partners’ critical reviews.
-- Select **two** possible starting points (see list of articles) for your *Scientific American.* Update and post article titles on course website.
+- Select **two** possible starting points (see list of articles) for your *Scientific American* update and post article titles on course website.
 
 **In Class:** Workshop on Critical Review.
 
@@ -146,12 +146,12 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 #### Session 14
 
-**Reading:** Preparing for the *Scientific American* Update. 
+**Reading:** Preparing for the *Scientific American* update. 
 
-- Look through the list of topics and articles that can provide a starting point for your *Scientific American*
+- Look through the list of topics and articles that can provide a starting point for your *Scientific American.*
 - Select an article that intrigues you and read it.
 - Read “Reviewing Prior Research,” Chapter Five from *Writing in the Sciences* (omitting exercises) by Ann Penrose and Steven Katz.
-- Read “Undamming the Rivers: A Review” by Angela Bednarek and “Down go the Dams” by Jane Marks (from *Scientific American*).
+- Read “Undamming the Rivers: A Review” by Angela Bednarek and “Down Go the Dams” by Jane Marks (from *Scientific American*).
 
 **In Class:** Understanding the link between genre and audience. 
 
@@ -161,9 +161,9 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **Reading:** 
 
-- Go back to the article that will provide a starting point for your *Scientific American.* **Read it carefully**.
-- Read “Finding Stories” from *Ideas into Words* by Elise Hancock & “Science and Technology” from *On Writing Well* by William Zinsser. Think about narrative strategies that you might use for your Update.
-- Read two student *Scientific American* Updates.
+- Go back to the article that will provide a starting point for your *Scientific American* update*.* **Read it carefully**.
+- Read “Finding Stories” from *Ideas into Words* by Elise Hancock & “Science and Technology” from *On Writing Well* by William Zinsser. Think about narrative strategies that you might use for your update.
+- Read two student *Scientific American* updates.
 
 **Writing:** Write a two-paragraph summary (c. 200 words) of the article you have chosen.
 
@@ -171,7 +171,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 #### Session 16
 
-**Reading:** Individual research
+**Reading:** Individual research.
 
 1. Track down and read a recent (last five years) scholarly review article that covers new research on a key topic within the earlier magazine article.
 2. Send Dr. Taft pdf of review article.
@@ -187,9 +187,9 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 #### Session 17
 
-**Reading:** Find and read additional material, possibly including recent news articles, to prepare for your *Scientific American* Update. *Science News* might be a useful source.
+**Reading:** Find and read additional material, possibly including recent news articles, to prepare for your *Scientific American* update. *Science News* might be a useful source.
 
-**Writing:** Write proposal for your *Scientific American* Update (150-200 words). 
+**Writing:** Write proposal for your *Scientific American* update (150–200 words). 
 
 **In Class:** Proposal workshop.
 
@@ -203,9 +203,9 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **Reading:** Neosha Narayanan’s “Saving Our Pollinators” from *Angles* 2019 and one current student draft.
 
-**In Class:** Discuss “Saving Our Pollinators.’
+**In Class:** Discuss “Saving Our Pollinators."
 
-- Whole class workshop of draft *SA* Update.
+- Whole class workshop of draft *SA* update.
 
 #### Session 20
 
@@ -231,11 +231,11 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **Writing:** Write up brief response to each talk in response to assigned questions. 
 
-**In Class:** Oral presentations
+**In Class:** Oral presentations.
 
 #### Session 23
 
-**In Class:** Oral presentations
+**In Class:** Oral presentations.
 
 ### Refining Your Work: Bringing it all Together
 
@@ -253,7 +253,7 @@ Further details can be found on the {{% resource_link "fb6ee633-6b84-46b2-bdd7-b
 
 **Writing:** Continue revising selected assignment. 
 
-- Post a segment of that assignment (2-3 full paragraphs) for a small group workshop.
+- Post a segment of that assignment (2–3 full paragraphs) for a small group workshop.
 
 **In Class:** Advanced editing workshop (small groups) 
 
