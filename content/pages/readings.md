@@ -11,7 +11,7 @@ No readings assigned.
 
 #### Session 2:
 
-Stickgold, Robert, and Jeffrey M. Ellenbogen. "Quiet! Sleeping brain at work." S*cientific American Mind*  19, no. 4 (2008): 22-29.
+Stickgold, Robert, and Jeffrey M. Ellenbogen. "Quiet! Sleeping Brain at Work." *Scientific American Mind* 19, no. 4 (2008): 22–29.
 
 #### Session 3:
 
@@ -19,23 +19,21 @@ Wilson, Edward O. "Paradise Beach." Chapter 1 in *Naturalist*. Island Press, 200
 
 Leopold, Aldo. "February" in *A Sand County Almanac, and Sketches Here and There*. Oxford University Press, USA, 1989. ISBN: 9780197500262.
 
-Ross, Carolyn. "Rhetoric: Writing about Personal Experience" in*Writing Nature: An Ecological Reader for Writers*. St. Martin's Press, 1995.
+Ross, Carolyn. "Rhetoric: Writing about Personal Experience" in*Writing Nature: An Ecological Reader for Writers*. St. Martin's Press, 1995. ISBN: 9780312103910.
 
 One of the following: 
 
 - Donald Hall, "Winter."
-- Savoy, Lauret. “A Stone’s Throw : ‘The View from Point Sublime.’” *Terrain.org: A Journal of the Built & Natural Environments*, no. 24 (2009).
+- Savoy, Lauret. “A Stone’s Throw: The View from Point Sublime.” *Terrain.org: A Journal of the Built & Natural Environments*, no. 24 (2009).
 - Turner, Jack. "Introduction" and "Return" in *Teewinot: A Year in the Teton Range*. Farrar, Straus, and Giroux, 2001.
 
 #### Session 4: 
 
 More narrative essays—Home and Away (Read all four pieces.)
 
-- Ellen Meloy:
-    - Meloy, Ellen. "The Inverse Cordillera" and "The Flora and Fauna of Las Vegas" in *Raven's Exile: A Season on the Green River*. University of Arizona Press, 2003. ISBN: 9780816522934.
-- Barry Lopez:
-    - Lopez, Barry. "Gone Back into the Earth" in *Crossing Open Ground*. Open Road Media, 2013. ISBN: 9781480409170,
-    - Lopez, Barry. Excerpt from "A Northern Passage" in *Arctic Dreams: Imagination and Desire in a Northern Landscape*. Vintage, 2001. ISBN: 9780375727481.
+- Meloy, Ellen. "The Inverse Cordillera" and "The Flora and Fauna of Las Vegas" in *Raven's Exile: A Season on the Green River*. University of Arizona Press, 2003. ISBN: 9780816522934.
+- Lopez, Barry. "Gone Back into the Earth" in *Crossing Open Ground*. Open Road Media, 2013. ISBN: 9781480409170,
+- Lopez, Barry. Excerpt from "A Northern Passage" in *Arctic Dreams: Imagination and Desire in a Northern Landscape*. Vintage, 2001. ISBN: 9780375727481.
 
 #### Session 5: 
 
@@ -60,7 +58,7 @@ Choose a pair of documentaries from the {{% resource_link "19ddb4d4-2f6a-4255-97
 1. Read {{% resource_link "0f7752ed-41a3-4511-be96-3883074d09b6" "Preparation for Critical Review (PDF)" %}} {{% resource_link "5675dd66-953c-45a3-a001-5a3f56f12fb4" "(DOC" %}}). (Questions to guide your analysis.)
 2. Read articles related to the topic of your documentaries (located with help of instructor).
 3. Read broader articles on communicating science. 
-    - Pineda, Diego. "[Editing a science documentary: more than words (literally!) (PDF)](http://www.councilscienceeditors.org/wp-content/uploads/v27n2p047-049.pdf)." *Sci Ed* 27, no. 2 (2004): 47-49. 
+    - Pineda, Diego. "[Editing a Science Documentary: More than Words (Literally!) (PDF)](http://www.councilscienceeditors.org/wp-content/uploads/v27n2p047-049.pdf)." *Sci Ed* 27, no. 2 (2004): 47–49. 
         - For context and terminology.
     - Read two articles from {{% resource_link "7569ba62-638b-4ed6-9435-d307d0125635" "this article list" %}}. Choose carefully. (An abstract/summary is included for each article.)
 
@@ -69,7 +67,7 @@ Choose a pair of documentaries from the {{% resource_link "19ddb4d4-2f6a-4255-97
 Additional readings on communicating science: 
 
 - O’Connor, Cailin, and James Owen Weatherall. "Why we trust lies." *Scientific American, Sept* (2019).
-- Kolbert, Elizabeth. "[Why facts don’t change our minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)." *The New Yorker* 27, no. 2017 (2017): 47.
+- Kolbert, Elizabeth. "[Why Facts Don’t Change Our Minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)." *The New Yorker* 27, no. 2017 (2017): 47.
 
 #### Session 11–13:
 
@@ -81,15 +79,15 @@ Preparing for the Scientific American Update.
 
 - Look through the list of {{% resource_link "a915b967-2c3f-47ed-af29-84715a92555f" "older articles" %}} that can provide a starting point for your Scientific American Update. Select an article that intrigues you and read it.
 - Penrose, Ann and Steven Katz. "Reviewing Prior Research." Chapter Five in [*Writing in the Sciences: Exploring Conventions of Scientific Discourse*](https://parlorpress.com/products/writing-in-the-sciences-exploring-conventions-of-scientific-discourse). Third Edition. Open Access Version. Parlor Press, 2010. ISBN: 9781643171869.
-- Bednarek, Angela T. "Undamming rivers: a review of the ecological impacts of dam removal." *Environmental management* 27, no. 6 (2001): 803-814.
-- Marks, Jane C. "Down go the dams." *Scientific American* 296, no. 3 (2007): 66-71.
+- Bednarek, Angela T. "Undamming Rivers: A Review of the Ecological Impacts of Dam Removal." *Environmental Management* 27, no. 6 (2001): 803–814.
+- Marks, Jane C. "Down Go the Dams." *Scientific American* 296, no. 3 (2007): 66–71.
 
 #### Session 15:
 
-- Go back to the article that will provide a starting point for your *Scientific American.* **Read it carefully**.
+- Go back to the article that will provide a starting point for your *Scientific American* update*.* **Read it carefully**.
 - Hancock, Elise. "Finding Stories" in *Ideas into Words: Mastering the Craft of Science Writing*. JHU Press, 2003. ISBN: 9780801873294. 
 - Zinsser, William. "Science and Technology" in *On Writing Well: An Informal Guide to Writing Nonfiction.* Harper Collins, 2012. ISBN: 9780062250506.
-- Read two (out of five) student *Scientific American* Updates:
+- Read two (out of five) student *Scientific American* updates:
     - [Saving Our Pollinators: Investigating Causes of Bee Deaths](https://cmsw.mit.edu/angles/2019/saving-our-pollinators-investigating-causes-of-bee-deaths/)
     - [Can Carbon Capture and Storage Help Us Curb Climate Change?](https://cmsw.mit.edu/angles/2018/can-carbon-capture-and-storage-help-us-curb-climate-change/)
     - [Protecting against Lyme Disease](http://cmsw.mit.edu/angles/2017/protecting-against-lyme-disease-a-scientific-american-update/)
@@ -127,13 +125,13 @@ Watch three TED talks from the following list. You might prefer to look at ones 
 
 Search talks at [TedTalks](http://www.ted.com/talks) or [YouTube](http://www.youtube.com/)
 
-- James Hansen: “Why I must speak out about climate change” (2012)
-- James Balog (Director of *Chasing Ice*): “Time-Lapse Proof of extreme ice loss” (2009)
-- Sylvia Earle: “My wish: protect our oceans” (2009)
-- Marla Spivak: :Why Bees are Disappearing” (2013)
-- Cesar Harada (MIT affiliate): “A novel idea for cleaning up oil spills” (2012): response to Gulf Oil spill
-- Topher White: “What can save the rainforest? Your used cell phone” (2014)
-- John Englander: “Sea level rise - fact & fiction” (2014) TEDxBocaRaton (search via Youtube)
+- James Hansen: “Why I Must Speak Out About Climate Change” (2012)
+- James Balog (Director of *Chasing Ice*): “Time-Lapse Proof of Extreme Ice Loss” (2009)
+- Sylvia Earle: “My Wish: Protect our Oceans” (2009)
+- Marla Spivak: "Why Bees are Disappearing" (2013)
+- Cesar Harada (MIT affiliate): “A Novel Idea for Cleaning Up Oil Spills” (2012): response to Gulf Oil spill
+- Topher White: “What Can Save the Rainforest? Your Used Cell Phone” (2014)
+- John Englander: “Sea Level Rise - Fact & Fiction” (2014) TEDxBocaRaton (search via Youtube)
 
 #### Session 23:
 
