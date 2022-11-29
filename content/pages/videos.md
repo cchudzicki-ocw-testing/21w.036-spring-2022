@@ -21,12 +21,12 @@ Videos to consider for your critical review.
 
 ### On the potential for a sixth mass extinction  (Choose two!)
 
--  “Extinction” (Episode 3 of PBS Evolution series, 2001, US): 56+ min.
+- “Extinction” (Episode 3 of PBS Evolution series, 2001, US): 56+ min.
     - Available via YouTube and Daily Motion
--  [The Sixth Extinction](https://mediaplayer.whro.org/program/sinking-cities) (2014? Spain) 50+ min.
+- [The Sixth Extinction](https://www.youtube.com/watch?v=rVwRnRYdiJ0&t=108s) (2014? Spain) 50+ min.
     - New Atlantis documentary
--  [Racing Extinction](http://www.documentarymania.com/player.php?title=Racing+Extinction)  (2015, US, Discovery & Oceanic Preservation Society) : 1 hr + 34 min.
--  \[Extinction: The Facts\]([https://www.dailymotion.com/video/x7w7wxr](https://www.dailymotion.com/video/x7w7wxr) 2).  (2020, BBC, UK): 58 min 
+- [Racing Extinction](http://www.documentarymania.com/player.php?title=Racing+Extinction)  (2015, US, Discovery & Oceanic Preservation Society) : 1 hr + 34 min.
+- [Extinction: The Facts](https://www.dailymotion.com/video/x7w7wxr2).  (2020, BBC, UK): 58 min 
     - Hosted by David Attenborough
 
 ### Plastic pollution (esp. in ocean): (Choose Two!)
