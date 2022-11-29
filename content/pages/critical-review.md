@@ -33,12 +33,12 @@ Read {{% resource_link "0f7752ed-41a3-4511-be96-3883074d09b6" "Preparation for C
 
 #### Preparation/Advice for first phase of critical review assignment
 
-- Rationale for pre-draft exercise #1:
+1. Rationale for pre-draft exercise #1:
     - Director’s name—the decision maker (should play an active & explicit role in your discussion). Find out info on director et al.
     - Narrator—the main character in some documentaries.
     - Original sponsoring organization and original venue (TV, website, movie theatre, etc.)—key to understanding audience & objective.
     - Dates—relation between the documentaries & evolving science
-- Some basic guidelines for Critical Review (Version 1 due on March 10th):
+2. Some basic guidelines for Critical Review (Version 1 due on March 10th):
     - Length—what this means for the level of detail and depth of paper
         - First Version must be at least 1500 words long.
         - Revised version must be between 1700 and 2000 words long.
@@ -108,6 +108,6 @@ Reminders for revised version:
 
 - Identify your writers and directors (or producers) in the body of your critical review and include any relevant background information.
 - Use the MLA in-text citation system. You can find information on this citation system on the web (check out the Purdue OWL site).
-- Remember to include a list of “Works Cited” at the end of your essay. Without such a list, your readers have no way of locating the sources that you mention in your essay. **The absence of a Works Cited list will result in an automatic grade penalty.**  
+- Remember to include a list of “Works Cited” at the end of your essay. Without such a list, your readers have no way of locating the sources that you mention in your essay. **The absence of a Works Cited list will result in an automatic grade penalty.**   
     Documentaries, articles, and websites should all appear in your list of works cited.
 - Revised version must be between 1700 and 2000 words long.
