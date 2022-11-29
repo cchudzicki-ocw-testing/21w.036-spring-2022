@@ -26,7 +26,7 @@ Videos to consider for your critical review.
 - [The Sixth Extinction](https://www.youtube.com/watch?v=rVwRnRYdiJ0&t=108s) (2014? Spain) 50+ min.
     - New Atlantis documentary
 - [Racing Extinction](http://www.documentarymania.com/player.php?title=Racing+Extinction)  (2015, US, Discovery & Oceanic Preservation Society) : 1 hr + 34 min.
-- [Extinction: The Facts](https://www.dailymotion.com/video/x7w7wxr2).  (2020, BBC, UK): 58 min 
+- [Extinction: The Facts](https://www.dailymotion.com/video/x7w7wxr).  (2020, BBC, UK): 58 min 
     - Hosted by David Attenborough
 
 ### Plastic pollution (esp. in ocean): (Choose Two!)
