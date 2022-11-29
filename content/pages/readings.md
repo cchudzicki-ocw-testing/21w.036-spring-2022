@@ -60,7 +60,7 @@ Choose a pair of documentaries from the {{% resource_link "19ddb4d4-2f6a-4255-97
 3. Read broader articles on communicating science. 
     - Pineda, Diego. "[Editing a Science Documentary: More than Words (Literally!) (PDF)](http://www.councilscienceeditors.org/wp-content/uploads/v27n2p047-049.pdf)." *Sci Ed* 27, no. 2 (2004): 47–49. 
         - For context and terminology.
-4. Read two articles from this list. Choose carefully. An abstract/summary is available for each article.
+4. Read two articles from this list. Choose carefully. 
     1. Nisbet, Matthew C., and Dietram A. Scheufele. "[What's Next for Science Communication? Promising Directions and Lingering Distractions](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.0900041)." *American Journal of Botany* 96, no. 10 (2009): 1767–1778.
     2. Laursen, Sandra L., and Annette Brickley. "[Focusing the Camera Lens on the Nature of Science: Evidence for the Effectiveness of Documentary Film as a Broader Impacts Strategy](https://www.tandfonline.com/doi/full/10.5408/1.3604825)." *Journal of Geoscience Education* 59, no. 3 (2011): 126–138.
     3. Dahlstrom, Michael F. "[Using Narratives and Storytelling to Communicate Science with Nonexpert Audiences](https://www.pnas.org/doi/full/10.1073/pnas.1320645111)." *Proceedings of the National Academy of Sciences* 111, no. supplement 4 (2014): 13614–13620.
@@ -90,7 +90,7 @@ Preparing for the Scientific American Update.
 
 #### Session 15:
 
-- Go back to the article that will provide a starting point for your *Scientific American* update*.* **Read it carefully**.
+- Go back to the article that will provide a starting point for your *Scientific American* update. **Read it carefully**.
 - Hancock, Elise. "Finding Stories" in *Ideas into Words: Mastering the Craft of Science Writing*. JHU Press, 2003. ISBN: 9780801873294. 
 - Zinsser, William. "Science and Technology" in *On Writing Well: An Informal Guide to Writing Nonfiction.* Harper Collins, 2012. ISBN: 9780062250506.
 - Read two (out of five) student *Scientific American* updates:
