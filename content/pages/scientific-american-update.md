@@ -105,3 +105,23 @@ The final version of your *Scientific American* update should look very much lik
 - Since you will be describing the work of other scientists, you should identify key researchers and major sources in the body of your article, but you should not include footnotes or in-text citations.
 - You should refer explicitly to the earlier *Scientific American* article on your topic.
 - Your finished article may include images, but the text takes priority.
+
+### Oral Presentation Assignment with Slides
+
+Plan carefully an 8–10 minutes oral presentation based on your research for the *Scientific American* update. You must incorporate slides, but the exact number of slides is up to you. You should not assume that your listeners have any previous knowledge of your subject, so you may want to go back over material covered by the earlier *Scientific American* article. Your slides should have captions that identify the   
+original source. After the presentation, you should post your slides on the course site.
+
+Be sure to rehearse your presentation so that you are comfortable managing your slides and can accurately predict the duration of your talk. Figure out the logistics before you have a real audience.
+
+Your listeners will have a chance to write up comments based on the guidelines listed below:
+
+1. Describe in detail one slide that you found particularly effective
+    - Briefly explain your reasoning.
+2. Comment on the overall impact of slides used by this speaker.
+    - Briefly explain your reasoning.
+3. Comment on number of slides shown during the presentation—too   
+    many, too few, just right?
+    - Briefly explain your reasoning.
+4. Each of our presenters will have to make many more oral   
+    presentations while at MIT. 
+    - Would you suggest any changes in speaking style?
