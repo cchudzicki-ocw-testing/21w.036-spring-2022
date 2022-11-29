@@ -82,22 +82,22 @@ Watch three of the following talks. You might prefer to look at ones that do no
 
 Search talks at [TED Talks](https://www.ted.com/talks) or [YouTube](www.youtube.com).
 
-- James Hansen: “Why I must speak out about climate change” (2012)
-- James Balog: “Time-Lapse Proof of extreme ice loss” (2009)
+- James Hansen: “Why I Must Speak Out About Climate Change” (2012)
+- James Balog: “Time-Lapse Proof of Extreme Ice Loss” (2009)
     - (Director of *Chasing Ice*)
-- Sylvia Earle: “My wish: protect our oceans” (2009)
+- Sylvia Earle: “My Wish: Protect Our Oceans” (2009)
 - Marla Spivak: "Why Bees are Disappearing” (2013)
-- Cesar Harada: “A novel idea for cleaning up oil spills” (2012)
+- Cesar Harada: “A Novel Idea for Cleaning Up Oil Spills” (2012)
     - (Response to Gulf Oil spill—MIT affiliate)
-- Topher White: “What can save the rainforest? Your used cell phone” (2014)
-- John Englander: “Sea level rise - fact & fiction” (2014)
+- Topher White: “What Can Save the Rainforest? Your Used Cell Phone” (2014)
+- John Englander: “Sea Level Rise - Fact & Fiction” (2014)
     - TEDxBocaRaton (search via Youtube)
 
 **Issues to consider in your brief responses to three TED talks:**
 
 1. Comment on the speaking style and body language of the speaker.
     - Explain your reasoning
-2. Describe in detail at least one slide that you found particularly effective
+2. Describe in detail at least one slide that you found particularly effective.
     - Explain your reasoning.
 3. Comment on the overall impact of slides used by this speaker.
     - Explain your reasoning.
@@ -119,7 +119,7 @@ Write out at least three objectives to pursue as you revise your selected assig
 
 **Session #25**
 
-Post a segment (2-3 full paragraphs) of the essay that you have chosen to revise for the final assignment. In class, you will continue revising in collaboration with one or more partners.
+Post a segment (2–3 full paragraphs) of the essay that you have chosen to revise for the final assignment. In class, you will continue revising in collaboration with one or more partners.
 
 #### Final Revision
 
