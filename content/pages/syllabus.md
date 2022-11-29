@@ -11,7 +11,7 @@ Lectures: 2 sessions / week; 1.5 hrs / session
 
 ### Prerequisites
 
-None. Reminder: You cannot take 21W.036 for credit if you have already taken or are currently taking another Science Writing and New Media subject.
+None. Reminder: you cannot take 21W.036 for credit if you have already taken or are currently taking another Science Writing and New Media subject.
 
 ### Course Description
 
@@ -31,7 +31,7 @@ The writing assignments will begin with those things that you know best—your o
 
 All of the readings for this course can be found on our course site. Each one is linked to a specific assignment and date.
 
-**Writer's Handbook**: If you do not own a writer’s handbook of some kind, Purdue’s Online Writing Lab (OWL) is an excellent resource. 
+**Writer's Handbook**: If you do not own a writer’s handbook of some kind, Purdue’s [Online Writing Lab (OWL)](https://owl.purdue.edu/) is an excellent resource. 
 
 ### Assignments
 
@@ -42,8 +42,8 @@ This is not a classic textbook course. You cannot do the work at the end of the
 #### Major Writing Assignments (Revision required): 
 
 1. Narrative essay (drawing upon personal experience): c. 1500 words.
-2. Critical Review (based upon your analysis of two videos and your reading of at least three related articles): 1700-2000 words.
-3. An article designed for *Scientific American* that provides an update on recent research in a specific field: 2100-2400 words.
+2. Critical review (based upon your analysis of two videos and your reading of at least three related articles): 1700–2000 words.
+3. An article designed for *Scientific American* that provides an update on recent research in a specific field: 2100–2400 words.
 
 #### Formal Oral Presentation
 
