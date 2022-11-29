@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: List of articles that students can read.
-draft: false
+draft: true
 title: Article List
 uid: 7569ba62-638b-4ed6-9435-d307d0125635
 ---
